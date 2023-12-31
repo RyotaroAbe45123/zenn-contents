@@ -36,8 +36,10 @@ published: true
 - 6 ~ 8月
     - 資格祭り
         - 期間を決めて資格をまとめて取得
-        - [Azure9冠](https://twitter.com/RyotaroAbe45123/status/1682708479994388482)
-        - [AWS12冠](https://twitter.com/RyotaroAbe45123/status/1695012136244920810)
+            - Azure
+            @[tweet](https://twitter.com/RyotaroAbe45123/status/1682708479994388482)
+            - AWS
+            @[tweet](https://twitter.com/RyotaroAbe45123/status/1695012136244920810)
 - 9 ~ 10月
     - kaggle
         - はじめて本格的にkaggleに挑戦
@@ -61,3 +63,7 @@ published: true
 # まとめ
 - 2023年は、視野が広がったが、実力不足も痛感
 - 2024年は、実力向上のため、対外的なアウトプットを増やす
+
+# SNS
+- [X](https://twitter.com/RyotaroAbe45123)
+- [GitHub](https://github.com/RyotaroAbe45123)
